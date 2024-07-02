@@ -1,0 +1,15 @@
+header {
+
+background-color: brown;
+color: azure;
+text-align: center;
+
+}
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+body {
+    background-image: url('https://github.com/Nasra-Omar/assignment-unit-5.2/blob/main/assignment/record.png');
+    margin: 0;
+   }
